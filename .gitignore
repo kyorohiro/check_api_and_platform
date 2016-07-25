@@ -1,0 +1,32 @@
+.DS_Store
+.atom/
+.idea
+.packages
+.pub/
+build/
+flutter_c/ios/.generated/
+packages
+pubspec.lock
+
+# Files and directories created by pub
+.packages
+.pub/
+build/
+packages
+pubspec.lock # (Remove this pattern if you wish to check in your lock file)
+
+# Files created by dart2js
+*.dart.js
+*.part.js
+*.js.deps
+*.js.map
+*.info.json
+
+# Directory created by dartdoc
+doc/api/
+
+# JetBrains IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
